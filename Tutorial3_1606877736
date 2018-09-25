@@ -1,0 +1,17 @@
+Pertanyaan 1
+	Tidak terjadi error dan muncul tampilan data berhasil ditambahkan
+
+Pertanyaan 2
+	Terjadi error karena data amount disetting required sehingga setiap variable harus memiliki data input
+	
+Pertanyaan 3 
+	Muncul
+
+Pertanyaan 4
+	Tidak karena data yang kita simpat hanya bersifat local dan sementara jadi program dianggap belum menyimpan data ke database
+	
+Pertanyaan 5
+	Muncul
+	
+Pertanyaan 6
+	Muncul
